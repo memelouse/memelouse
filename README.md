@@ -12,6 +12,7 @@
 <img align="left" style="padding-right:10px;" src="https://cdn.discordapp.com/attachments/1046837773790883912/1106351763625361428/Untitled-5.png" width="60" height="60">
 <img align="left" style="padding-right:10px;" src="https://w1.pngwing.com/pngs/136/126/png-transparent-javascript-logo-angularjs-nodejs-computer-programming-web-development-computer-software-jquery-yellow.png" width="60" height="60">
 
+
 # Current Interests
 - Learning discord bot for javascript
 - Learning roblox scripting

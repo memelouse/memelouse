@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Memelouse profile
+### Languages
+<img align="left" alt="java" width=30px style="padding-right:10px;" src="https://raw.githubusercontent.com/docker-library/docs/01c12653951b2fe592c1f93a13b4e289ada0e3a1/python/logo.png">
 <!--
 **memelouse/memelouse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

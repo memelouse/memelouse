@@ -21,6 +21,6 @@
 
 # Info
 
-- 17 years old
+- 16 years old
 - I live in sweden
 - Contact me at: Memelouse#0001

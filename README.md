@@ -15,7 +15,7 @@
 <img style="padding-right:10px;" src="https://www.javatpoint.com/js/nodejs/images/node-js-tutorial.png" width="60" height="60">
 
 # Current Interests
-- Learning discord bot for javascript
+- Learning discord bot for node js
 - Learning roblox scripting
 - Learning more languages
 

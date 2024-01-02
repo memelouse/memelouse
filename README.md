@@ -24,4 +24,4 @@
 
 - 16 years old
 - I live in sweden
-- Contact me at: Memelouse
+- Contact me at discord: memelouse

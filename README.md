@@ -1,9 +1,6 @@
-# Memelouse
-
 # Languages
-
 - Lua
-- Luau (roblox lua version)
+- C++(Still learning)
 - Python
 - Javascript
 - Node.js
@@ -15,13 +12,9 @@
 <img style="padding-right:10px;" src="https://www.javatpoint.com/js/nodejs/images/node-js-tutorial.png" width="60" height="60">
 
 # Current Interests
-- Learning Node.js for Discord bot development
-- Learning gmod scripting
-- Learning roblox scripting
-- Learning more languages
+- Developing stuff in C++
 
 # Info
-
 - 16 years old
 - I live in sweden
 - Contact me at discord: memelouse

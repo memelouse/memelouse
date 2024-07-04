@@ -1,6 +1,6 @@
 # Languages
 - Lua
-- C++(Still learning)
+- C++
 - Python
 - Javascript
 - Node.js

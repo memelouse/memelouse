@@ -1,8 +1,7 @@
 # Languages
 - Lua
-- C++
+- C/C++
 - Python
-- Javascript
 - Node.js
 
 # Current Interests
